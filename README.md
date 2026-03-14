@@ -1,5 +1,6 @@
 # miniguia-estudos-notebooklm
 Caderno Temático sobre Ética em IA
+
 **1. Contexto e Objetivos**
 O objetivo deste caderno é consolidar diretrizes de Ética em IA para desenvolvedores e tomadores de decisão. O foco é entender como identificar vieses em modelos e aplicar frameworks de governança.
 

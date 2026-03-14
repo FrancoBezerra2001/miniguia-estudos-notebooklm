@@ -21,7 +21,6 @@ Objetivo 3: Criar um checklist prático para auditoria de projetos de IA.
 [Google/Microsoft Whitepapers] - Documentos sobre "Responsible IA Principles".
 
 **3. Engenharia de Prompts e "Cicatrizes"**
-No seu README, documente a evolução da sua conversa com a IA.
 
 Prompt Inicial (Ruim):
 
